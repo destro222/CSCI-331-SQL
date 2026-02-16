@@ -28,29 +28,6 @@ It emphasized understanding JOIN differences clearly.
 
 ---
 
-## Propositions and Queries
-
-### Proposition 1 – LEFT JOIN
-**Goal:** Show all customers and their orders, including customers who have never placed an order.  
-
-Purpose: Preserve all customers while showing order information if available.
-
----
-
-### Proposition 2 – RIGHT JOIN
-**Goal:** Show all products and related orders, including products that were never ordered.  
-
-Purpose: Preserve all products and identify items that have not been sold.
-
----
-
-### Proposition 3 – FULL OUTER JOIN
-**Goal:** Show all customers and all orders, including unmatched records on both sides.  
-
-Purpose: Detect missing matches and understand data completeness.
-
----
-
 ## How to Run
 
 1. Open Azure Data Studio or SQL Server Management Studio.
