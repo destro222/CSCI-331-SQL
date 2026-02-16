@@ -76,6 +76,14 @@ Purpose: Detect missing matches and understand data completeness.
 - Azure Data Studio
 - Northwinds2024Student database
 
+
+## Video Walkthrough
+
+You can watch my full explanation here:
+
+🔗 https://www.youtube.com/https://youtu.be/eJDk2RVFR2g?si=G32VG0He0ngIXFuo
+
+
 ---
 
 
