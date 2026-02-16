@@ -77,11 +77,11 @@ Purpose: Detect missing matches and understand data completeness.
 - Northwinds2024Student database
 
 
-## Video Walkthrough
+## 📺 My YouTube Channel
 
-You can watch my full explanation here:
+You can view all my SQL assignment walkthroughs here:
 
-🔗 https://www.youtube.com/https://youtu.be/eJDk2RVFR2g?si=G32VG0He0ngIXFuo
+[Visit My Channel](https://www.youtube.com/channel/UCpO9cCS7Qc_5VnR0PCxWlrg)
 
 
 ---
